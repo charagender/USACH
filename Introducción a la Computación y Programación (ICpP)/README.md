@@ -5,5 +5,4 @@
 4. [Ejercicios de Python para principiantes](https://github.com/PodssilDev/Ejercicios-de-Python-Beginner-Friendly-)
 
 # Herramientas a utilizar:
-=====================
 1. Python

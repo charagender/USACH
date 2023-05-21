@@ -1,1 +1,11 @@
-Cosas que me serán útiles en el futuro
+## Repositorio de material útil para ramos de la USACH
+### - [Arquitectura de Computadores](https://github.com/charagender/USACH/blob/main/Arquitectura%20de%20Computadores)
+### - [Estadística Computacional](https://github.com/charagender/USACH/tree/main/Estad%C3%ADstica%20Computacional)
+### - [Estadística Inferencial](https://github.com/charagender/USACH/tree/main/Estad%C3%ADstica%20Inferencial)
+### - [Estructura de Datos](https://github.com/charagender/USACH/tree/main/Estructura%20de%20Datos)
+### - [Introducción a la Computación y Programación (ICyP)](https://github.com/charagender/USACH/tree/main/Introducci%C3%B3n%20a%20la%20Computaci%C3%B3n%20y%20Programaci%C3%B3n%20%28ICyP%29)
+### - [Paradigmas de la Programación](https://github.com/charagender/USACH/tree/main/Paradigmas%20de%20la%20Programaci%C3%B3n)
+### - [Procesamiento de Señales e Imágenes](https://github.com/charagender/USACH/tree/main/Paradigmas%20de%20la%20Programaci%C3%B3n)
+### - [Taller de la Programación](https://github.com/charagender/USACH/tree/main/Taller%20de%20la%20Programaci%C3%B3n)
+### - [Teoría de la Computación](https://github.com/charagender/USACH/tree/main/Teor%C3%ADa%20de%20la%20Computaci%C3%B3n)
+### - [Técnicas / Métodos de Ingeniería de Software (TINGESO - MINGESO)](https://github.com/charagender/USACH/tree/main/T%C3%A9cnicas%20M%C3%A9todos%20de%20Ingenier%C3%ADa%20de%20Software%20(TINGESO%20-%20MINGESO))

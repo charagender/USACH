@@ -18,5 +18,5 @@
 7. Dom->Rec
 8. Organización
 9. Historial
-10.  Script de pruebas
-11.  Prerrequisitos
+10. Script de pruebas
+11. Prerrequisitos
