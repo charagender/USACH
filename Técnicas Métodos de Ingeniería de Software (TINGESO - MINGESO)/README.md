@@ -7,9 +7,11 @@
 6. [Repositorio PEP 2 2022-2 (PodssilDev)](https://github.com/PodssilDev/Tingeso_PEP2)
 7. [Repositorio PEP 3 2022-2 (PodssilDev)](https://github.com/PodssilDev/Tingeso_PEP3)
 8. [Trabajo Pizzas 2022-2 (driques)](https://github.com/driques/pizzas-tingeso)
-9. [Docker Docs](https://docs.docker.com/)
-10. [Sonarqube Docs](https://docs.sonarqube.org/latest/)
-11. [Jenkins Docs](https://www.jenkins.io/doc/)
+9. [FINGESO Backend 2022-2 (Henny35P)](https://github.com/Henny35P/Fingeso_backend)
+10. [FINGESO Frontend 2022-2 (Henny35P)](https://github.com/Henny35P/Fingeso_frontend)
+11. [Docker Docs](https://docs.docker.com/)
+12. [Sonarqube Docs](https://docs.sonarqube.org/latest/)
+13. [Jenkins Docs](https://www.jenkins.io/doc/)
 
 # Herramientas y técnologías a utilizar
 ## Evaluación 1
