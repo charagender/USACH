@@ -3,3 +3,8 @@
 2. [Tiempo Fibonacci (vastien)](https://github.com/vastien/fibonacci-time/)
 3. [Repo Análisis de Algoritmos y Estructuras de Datos 2021-2 (Harunomi)](https://github.com/Harunomi/EDA-1-2021)
 4. [Repo Análisis de Algoritmos y Estructuras de Datos 2021-2 (JoseToroB)](https://github.com/JoseToroB/Metodos_EDA)
+5. [Tarea 1 2022-1 (schnjov)](https://github.com/schnjov/Tarea1_EDA)
+6. [Laboratorio 1 2022-1 (schnjov)](https://github.com/schnjov/Lab-1-EDA)
+7. [Laboratorio 2 2022-1 (schnjov)](https://github.com/schnjov/Lab-2-EDA)
+8. [Laboratorio 3 2022-1 (schnjov)](https://github.com/schnjov/Lab-3-EDA)
+9. [Laboratorio 4 2022-1 (schnjov)](https://github.com/schnjov/Lab-4-EDA)
