@@ -1,11 +1,12 @@
 # Links de utilidad:
 1. [Ayudantía 2023-1 John (PodssilDev)](https://github.com/PodssilDev/ayudantias-tingeso-mingeso)
-2. [Repositorio PEP 1 2022-2](https://github.com/PodssilDev/Tingeso_PEP1)
-3. [Repositorio PEP 2 2022-2](https://github.com/PodssilDev/Tingeso_PEP2)
-4. [Repositorio PEP 3 2022-2](https://github.com/PodssilDev/Tingeso_PEP3)
-5. [Docker Docs](https://docs.docker.com/)
-6. [Sonarqube Docs](https://docs.sonarqube.org/latest/)
-7. [Jenkins Docs](https://www.jenkins.io/doc/)
+2. [Repositorio PEP 1 2022-2 (PodssilDev)](https://github.com/PodssilDev/Tingeso_PEP1)
+3. [Repositorio PEP 1 2023-1 (Harunomi)](https://github.com/Harunomi/PEP1_Tingeso_1-2023)
+4. [Repositorio PEP 2 2022-2 (PodssilDev)](https://github.com/PodssilDev/Tingeso_PEP2)
+5. [Repositorio PEP 3 2022-2 (PodssilDev)](https://github.com/PodssilDev/Tingeso_PEP3)
+6. [Docker Docs](https://docs.docker.com/)
+7. [Sonarqube Docs](https://docs.sonarqube.org/latest/)
+8. [Jenkins Docs](https://www.jenkins.io/doc/)
 
 # Herramientas y técnologías a utilizar
 ## Evaluación 1
