@@ -1,7 +1,9 @@
 # Links de utilidad:
-1. [Laboratorio 1 2022-1 John (PodssilDev)](https://github.com/PodssilDev/Paradigmas_Laboratorio_1_Racket_Scheme)
-2. [Laboratorio 2 2022-1 John (PodssilDev)](https://github.com/PodssilDev/Paradigmas_Laboratorio_2_Prolog)
-3. [Laboratorio 3 2022-1 John (PodssilDev)](https://github.com/PodssilDev/Paradigmas_Laboratorio_3_POO_Java)
+1. [Repositorio maestro para aprobar (vastien)](https://github.com/vastien/paradigmas-de-la-programacion)
+2. [Laboratorio 1 2022-1 John (PodssilDev)](https://github.com/PodssilDev/Paradigmas_Laboratorio_1_Racket_Scheme)
+3. [Laboratorio 2 2022-1 John (PodssilDev)](https://github.com/PodssilDev/Paradigmas_Laboratorio_2_Prolog)
+4. [Laboratorio 3 2022-1 John (PodssilDev)](https://github.com/PodssilDev/Paradigmas_Laboratorio_3_POO_Java)
+5. [Simulador de Drobble - Lógico (vastien)](https://github.com/vastien/prolog-dobble-simulator/)
 
 # Herramientas a utilizar:
 1. Racket (Paradigma Funcional) 
