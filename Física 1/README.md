@@ -1,0 +1,1 @@
+[Talleres Asincrónicos Física I 2023-1 (PAIEP)](https://youtube.com/playlist?list=PLeOz_OWgt6euvu2MVaG0nZDjx9ndmbVAk)
