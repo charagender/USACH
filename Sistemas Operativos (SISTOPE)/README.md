@@ -1,5 +1,4 @@
-Links de utilidad:
-==================
+# Links de utilidad:
 - [Ayudantías SISTOPE 2023-1](https://drive.google.com/drive/folders/14DHufDaPvANO7knQ34YIiEyu1D4drl2L?usp=share_link)
 - [Repo SISTOPE 2022-1 (Harunomi)](https://github.com/Harunomi/SISTOPE_1_2022)
 - [Laboratorio 1 2022-2 (schnjov)](https://github.com/schnjov/Lab1_Sistope)
@@ -9,8 +8,7 @@ Links de utilidad:
 - [CCNA (Internet Protocols)](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 - [Subnetting](https://www.youtube.com/watch?v=rs39FWDhzDs)
 
-Temas PEP 1 (SISTOPE 2023-1)
-============================
+## Temas PEP 1 (SISTOPE 2023-1)
 - Historia y origen Internet
 - Organizaciones creadoras de eståndares
 - Eståndares

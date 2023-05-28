@@ -4,6 +4,7 @@
 3. [Ayudantía 2023-1 Byron Caices](https://youtube.com/playlist?list=PLT1g-tSHvIMt12xWQqQqsbLW3k37PnKhI)
 4. [Ejercicios de Python para principiantes](https://github.com/PodssilDev/Ejercicios-de-Python-Beginner-Friendly-)
 5. [Proyecto Semestre 2020-2 (driques)](https://github.com/driques/proyecto_programacion)
+6. [Ayudantías USACH Premium 2022-2](https://www.youtube.com/playlist?list=PLT1g-tSHvIMt12xWQqQqsbLW3k37PnKhI)
 
 # Herramientas a utilizar:
 1. Python
