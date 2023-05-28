@@ -1,6 +1,8 @@
 # Links de utilidad:
 - [Ayudantías SISTOPE 2023-1](https://drive.google.com/drive/folders/14DHufDaPvANO7knQ34YIiEyu1D4drl2L?usp=share_link)
-- [Repo SISTOPE 2022-1 (Harunomi)](https://github.com/Harunomi/SISTOPE_1_2022)
+- [Repositorio Laboratorios 2022-1 (Harunomi)](https://github.com/Harunomi/SISTOPE_1_2022)
+- [Repositorio Laboratorios 2020-2 (cesarsasi)](https://github.com/cesarsasi/lab1-sistope)
+- [Repositorio Laborotarios 2021-2 (Krostifer)](https://github.com/Krostifer/Sistemas-operativos)
 - [Laboratorio 1 2022-2 (schnjov)](https://github.com/schnjov/Lab1_Sistope)
 - [Laboratorio 2 2022-2 (schnjov)](https://github.com/schnjov/Lab2_Sistemas_Operativos)
 - [Laboratorio 3 2022-2 (schnjov)](https://github.com/schnjov/Lab3_Sistemas_Operativos)
